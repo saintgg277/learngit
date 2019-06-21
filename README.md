@@ -11,3 +11,4 @@
 * [第七课 使用GitHub Pages建立自己的主页](7/README.md) 预计时间：10分钟
 
 进一步学习推荐 [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)。
+#这是我在张老师的带领下执行的第一个fork，我喜欢git
